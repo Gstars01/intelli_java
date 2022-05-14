@@ -23,8 +23,8 @@ public class quick_sort {
                 memory[0] = arr[right];
                 memory[1] = arr[left];
             }
+
         }
-        sort
         System.out.println(arr);
         return 0;
     }
