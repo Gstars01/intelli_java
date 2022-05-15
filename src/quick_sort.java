@@ -28,7 +28,6 @@ public class quick_sort {
         System.out.println(arr);
         return 0;
     }
-    public static int main
     public static void main(String[] args) {
         System.out.println("quick sort");
 
